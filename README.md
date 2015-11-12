@@ -8,6 +8,6 @@ ref:  https://medium.com/cs183c-blitzscaling-class-collection/latest
 lecture notes created by Chris McCann and generated using readlists:  http://readlists.com/cfc0971b
 ref:  https://medium.com/@mccannatron
 
-
+Please, join course discussions on IRC (Freenode) within the ##cs183c channel
 
 
